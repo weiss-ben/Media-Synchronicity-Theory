@@ -3,6 +3,14 @@
 #include <string>
 #include <vector>
 
+//====== Citations ======
+// Daft, Richard L., and Robert H. Lengel. “Organizational Information
+// Requirements, Media Richness and Structural Design.” Management Science, vol.
+// 32, no. 5, 1986, pp. 554–571., https://doi.org/10.1287/mnsc.32.5.554.
+
+// O'Hair, Dan, et al. Real Communication: An Introduction. Bedford/St.
+// Martin's, Macmillan Learning, 2021.
+
 void displayMenu();
 void displayChannels(std::map<std::string, std::string> &channelMap);
 void displaySynch(std::map<std::string, std::vector<std::string>> &synchMap);
